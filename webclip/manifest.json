@@ -1,0 +1,20 @@
+{
+  "name": "Vector LSW",
+  "short_name": "LSW",
+  "start_url": "https://script.google.com/macros/s/AKfycbyydhmBXaB8UYOBKlKkCsDVzz8HX0Auc-xGpmuIvFgVIWvlIdQsekFSAEB-EYBsKXw/exec",
+  "display": "standalone",
+  "background_color": "#111417",
+  "theme_color": "#111417",
+  "icons": [
+    {
+      "src": "./VectorLSW-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./VectorLSW-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
